@@ -5,12 +5,11 @@
 
 <h3 align="center">A passionate Mobile App Developer with Backend expertise</h3>
 
-- 💬 Ask me about **Flutter, Jetpack Compose, SwiftUI, Node.js, Express, MongoDB, PostgreSQL**
 - 📫 Reach me at **masrafianam@gmail.com**
 
 ---
 <p align="center">
-  <img src="https://github.com/Masrafi/Masrafi/blob/main/Gemini_Generated_Image_9iuj8q9iuj8q9iuj.png" alt="Skills Banner", height="200" />
+  <img src="https://github.com/Masrafi/Masrafi/blob/main/Gemini_Generated_Image_9iuj8q9iuj8q9iuj.png" alt="Skills Banner", height="600" />
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -27,7 +26,7 @@
 <h3 align="left">🛠 Languages & Tools:</h3>
 <p align="left">
 <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="jetpack compose" width="40" height="40"/></a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"/></a>
 <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swiftui" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
