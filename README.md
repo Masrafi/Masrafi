@@ -1,13 +1,13 @@
-<!-- Banner Image -->
+<!-- Banner Image 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:42f57b&height=150&section=header&text=Masrafi%20Anam%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Flutter%20%7C%20Jetpack%20Compose%20%7C%20SwiftUI%20%7C%20Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20PostgreSQL&descAlignY=70" />
 </p>
-
+-->
 <h3 align="center">A passionate Mobile App Developer with Backend expertise</h3>
-
+<!--
 ---
 - 📫 Reach me at **masrafianam@gmail.com**
-
+-->
 ---
 <p align="center">
   <img src="https://github.com/Masrafi/Masrafi/blob/main/intro.png" alt="Skills Banner", height="500", width="1000" />
@@ -25,7 +25,7 @@
 </p>
 
 ---
-
+<!--
 <h3 align="left">🛠 Languages & Tools:</h3>
 <p align="left">
 <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
@@ -41,7 +41,7 @@
 </p>
 
 ---
-
+-->
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrafi&show_icons=true&locale=en&layout=compact&theme=radical" alt="masrafi" /></p>
