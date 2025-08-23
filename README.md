@@ -10,9 +10,11 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Masrafi/Masrafi/blob/main/Gemini_Generated_Image_9iuj8q9iuj8q9iuj.png" alt="Skills Banner", height="600" />
+  <img src="https://github.com/Masrafi/Masrafi/blob/main/Gemini_Generated_Image_9iuj8q9iuj8q9iuj.png" alt="Skills Banner", height="500", width="800" />
 </p>
+
 ---
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/masrafi_anam_9efdc6e67df1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
