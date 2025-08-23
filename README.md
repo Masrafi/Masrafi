@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Masrafi/Masrafi/blob/main/intro.png" alt="Skills Banner", height="500", width="800" />
+  <img src="https://github.com/Masrafi/Masrafi/blob/main/intro.png" alt="Skills Banner", height="400", width="1000" />
 </p>
 
 ---
