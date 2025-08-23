@@ -12,6 +12,9 @@
 - 📫 Reach me at **masrafianam@gmail.com**
 
 ---
+<p align="center">
+  <img src="https://github.com/Masrafi/Masrafi/blob/main/Gemini_Generated_Image_9iuj8q9iuj8q9iuj.png" alt="Skills Banner" />
+</p>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
