@@ -3,17 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:42f57b&height=250&section=header&text=Masrafi%20Anam%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Flutter%20%7C%20Jetpack%20Compose%20%7C%20SwiftUI%20%7C%20Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20PostgreSQL&descAlignY=65" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Masrafi</h1>
 <h3 align="center">A passionate Mobile App Developer with Backend expertise</h3>
-
----
 
 - 💬 Ask me about **Flutter, Jetpack Compose, SwiftUI, Node.js, Express, MongoDB, PostgreSQL**
 - 📫 Reach me at **masrafianam@gmail.com**
 
 ---
 <p align="center">
-  <img src="https://github.com/Masrafi/Masrafi/blob/main/Gemini_Generated_Image_9iuj8q9iuj8q9iuj.png" alt="Skills Banner" />
+  <img src="https://github.com/Masrafi/Masrafi/blob/main/Gemini_Generated_Image_9iuj8q9iuj8q9iuj.png" alt="Skills Banner", height="200" />
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
