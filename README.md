@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masrafi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mobile App Developer with have Backend skilled</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masrafi&label=Profile%20views&color=0e75b6&style=flat" alt="masrafi" /> </p>
 
@@ -11,13 +11,15 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, SwiftUI, Node.js, Express & MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://resume-data-d054d.web.app/](https://resume-data-d054d.web.app/)
+- 👨‍💻 All of my projects are available at [Play Store & App Store](Play Store & App Store)
 
-- 📝 I regularly write articles on [https://medium.com/@masrafianam](https://medium.com/@masrafianam)
+- 📝 I regularly write articles on [https://medium.com/@masrafianam https://dev.to/masrafi_anam_9efdc6e67df1](https://medium.com/@masrafianam https://dev.to/masrafi_anam_9efdc6e67df1)
 
 - 💬 Ask me about **Flutter, Jetpack Compose, SwiftUI, Node.js, Express & MongoDB**
 
 - 📫 How to reach me **masrafianam@gmail.com**
+
+- 📄 Know about my experiences [https://resume-data-d054d.web.app/](https://resume-data-d054d.web.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
