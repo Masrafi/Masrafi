@@ -1,5 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
+  <img src="https://github.com/Masrafi/Masrafi/blob/main/intro.png" alt="Skills Banner", height="500", width="1000" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:42f57b&height=150&section=header&text=Hi,%20I%20am%20Masrafi%20Anam%20&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Flutter%20%7C%20Jetpack%20Compose%20%7C%20SwiftUI%20%7C%20Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20PostgreSQL&descAlignY=70" />
 </p>
 
@@ -8,12 +14,6 @@
 ---
 
 - 📫 Reach me at **masrafianam@gmail.com**
-
----
-
-<p align="center">
-  <img src="https://github.com/Masrafi/Masrafi/blob/main/intro.png" alt="Skills Banner", height="500", width="1000" />
-</p>
 
 ---
 
