@@ -44,14 +44,10 @@
 
 ---
 -->
-### 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Masrafi&show_icons=true&locale=en&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masrafi&show_icons=true&locale=en&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Masrafi&theme=radical&t=1692928832)
-
-![GitHub Streak](https://github-readme-streak-stats-seven.vercel.app?user=Masrafi&theme=radical)
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrafi&show_icons=true&locale=en&layout=compact&theme=radical" alt="masrafi" />
+</p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masrafi&show_icons=true&locale=en&theme=radical" alt="masrafi" /></p> 
+<p> <img align="center" src="https://streak-stats.demolab.com?user=Masrafi&theme=radical" alt="Masrafi" /> </p>
 
 
