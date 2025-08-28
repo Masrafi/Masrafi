@@ -50,6 +50,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masrafi&show_icons=true&locale=en&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Masrafi&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Masrafi&theme=radical&t=1692928832)
+
+![GitHub Streak](https://github-readme-streak-stats-seven.vercel.app?user=Masrafi&theme=radical)
 
 
