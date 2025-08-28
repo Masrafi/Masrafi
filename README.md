@@ -1,6 +1,7 @@
 <!-- Banner Image -->
+<h1 align="center">Hi, I am Masrafi Anam</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:42f57b&height=200&section=header&text=Hi,%20I%20am%20Masrafi%20Anam%20&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Flutter%20%7C%20Jetpack%20Compose%20%7C%20SwiftUI%20%7C%20Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20PostgreSQL&descAlignY=70" />
+Flutter | Jetpack Compose | SwiftUI | Node.js | Express | MongoDB | PostgreSQL
 </p>
 
 <h3 align="center">A passionate Mobile App Developer with Backend expertise</h3>
@@ -49,5 +50,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrafi&show_icons=true&locale=en&layout=compact&theme=radical" alt="masrafi" />
 </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masrafi&show_icons=true&locale=en&theme=radical" alt="masrafi" /></p> 
 <p> <img align="center" src="https://streak-stats.demolab.com?user=Masrafi&theme=radical" alt="Masrafi" /> </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masrafi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Masrafi&layout=compact&theme=radical)
+
 
 
