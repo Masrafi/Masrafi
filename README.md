@@ -44,13 +44,12 @@
 
 ---
 -->
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrafi&show_icons=true&locale=en&layout=compact&theme=radical" alt="masrafi" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Masrafi&show_icons=true&locale=en&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masrafi&show_icons=true&locale=en&theme=radical" alt="masrafi" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masrafi&show_icons=true&locale=en&theme=radical)
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Masrafi&theme=radical" alt="Masrafi" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Masrafi&theme=radical)
+
 
