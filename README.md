@@ -47,12 +47,14 @@ Flutter | Jetpack Compose | SwiftUI | Node.js | Express | MongoDB | PostgreSQL
 -->
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrafi&show_icons=true&locale=en&layout=compact&theme=radical" alt="masrafi" />
-</p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masrafi&show_icons=true&locale=en&theme=radical" alt="masrafi" /></p> 
-<p> <img align="center" src="https://streak-stats.demolab.com?user=Masrafi&theme=radical" alt="Masrafi" /> </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masrafi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Masrafi&layout=compact&theme=radical)
 
+![Snake animation](https://raw.githubusercontent.com/Masrafi/Masrafi/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Masrafi&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile views](https://komarev.com/ghpvc/?username=Masrafi&color=blueviolet)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Masrafi&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
